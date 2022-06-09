@@ -11,5 +11,5 @@ on:
       - develop
 
 jobs:
-  springboot-gradle:
-    uses: rapharw/github-wf-templates/.github/workflows/springboot-gradle.yaml@v0.0.4-alpha
+  build:
+    uses: rapharw/github-wf-templates/.github/workflows/springboot-gradle.yaml@v0.0.5-alpha
