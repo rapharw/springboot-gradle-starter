@@ -11,4 +11,7 @@ on:
       - develop
 
 jobs:
-  - uses: rapharw/github-wf-templates@main.yaml
+  build:
+    runs-on: ubuntu-latest
+    steps:    
+      - uses: rapharw/github-wf-templates@main.yaml
