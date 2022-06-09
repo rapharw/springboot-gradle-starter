@@ -12,4 +12,4 @@ on:
 
 jobs:
   springboot-gradle:
-    uses: rapharw/github-wf-templates/.github/workflows/springboot-gradle.yaml@main
+    uses: rapharw/github-wf-templates/.github/workflows/springboot-gradle.yaml@v0.0.4-alpha
