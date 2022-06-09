@@ -12,5 +12,4 @@ on:
 
 jobs:
   springboot-gradle:
-    # USER_OR_ORG_NAME/REPO_NAME/.github/workflows/REUSABLE_WORKFLOW_FILE.yml@TAG_OR_BRANCH
-    uses: rapharw/github-wf-templates/.github/workflows/springboot-gradle.yml@main
+    uses: rapharw/github-wf-templates/.github/workflows/springboot-gradle.yaml@main
