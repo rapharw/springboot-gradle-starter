@@ -13,4 +13,4 @@ on:
 jobs:
   Uses:
     # USER_OR_ORG_NAME/REPO_NAME/.github/workflows/REUSABLE_WORKFLOW_FILE.yml@TAG_OR_BRANCH
-    rapharw/github-wf-templates/.github/workflows/main.yml@v0.0.1-alpha
+    rapharw/github-wf-templates/.github/workflows/main.yml@v0.0.2-alpha
