@@ -1,6 +1,5 @@
-# dda-springboot-gradle-starter
+# springboot-gradle-starter
 
-[![dda/software](https://img.shields.io/badge/dda-software-yellow)](#)
 [![java/gradle](https://img.shields.io/badge/java-gradle-blue)](#)
 [![cicd/github-actions](https://img.shields.io/badge/cicd-github_actions-yellow)](#)
 
